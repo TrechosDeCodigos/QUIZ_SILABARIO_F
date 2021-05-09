@@ -364,3 +364,4 @@ const myApp=[
         const app1=new App(myApp[ele.value],container)
       }
 
+
