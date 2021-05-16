@@ -33,8 +33,8 @@ body{
    padding: 10px 50px 50px 50px;
    border-radius: 20px;
    border: 2px solid rgba(75,241,250,1);
-   border-top: 1px solid rgba(255,255,255,0.5);
-   border-left: 1px solid rgba(255,255,255,0.5);  
+   border-top: 2px solid rgba(75,241,250,1);
+   border-left: 2px solid rgba(75,241,250,1);  
    box-shadow: 0 15px 25px rgba(75,241,250,1);
    
 }
